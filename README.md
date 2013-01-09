@@ -12,6 +12,9 @@ installation requirements, instructions and more information.
 * Email: creller@ee.ethz.ch
 * Version: 0.4
 
+Note: The branch master contains Python 2 version and the branch python3
+contains Python 3 version.
+
 License
 -------
 
