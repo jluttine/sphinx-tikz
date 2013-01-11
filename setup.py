@@ -23,7 +23,7 @@ setup(
     license='BSD',
     author='Christoph Reller',
     author_email='creller@ee.ethz.ch',
-    description='Sphinx "tikz" extension',
+    description='TikZ extension for Sphinx',
     long_description=long_desc,
     zip_safe=False,
     classifiers=[
