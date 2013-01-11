@@ -17,8 +17,6 @@ setup(
     license='BSD',
     author='Christoph Reller',
     author_email='creller@ee.ethz.ch',
-    maintainer='Jaakko Luttinen',
-    maintainer_email='jaakko.luttinen@iki.fi',
     description='Sphinx "tikz" extension',
     long_description=long_desc,
     zip_safe=False,
