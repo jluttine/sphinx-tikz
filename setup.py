@@ -12,7 +12,7 @@ requires = ['Sphinx>=0.6']
 setup(
     name='sphinxcontrib-tikz',
     version='0.4',
-    url='http://bitbucket.org/birkenfeld/sphinx-contrib',
+    url='http://people.ee.ethz.ch/~creller/web/tricks/sphinx-tikz.html',
     download_url='http://pypi.python.org/pypi/sphinxcontrib-tikz',
     license='BSD',
     author='Christoph Reller',
